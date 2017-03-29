@@ -1,6 +1,5 @@
--- #Beyond Reborn Robot
--- #@BeyondTeam
-
+-- #saman Reborn Robot
+-- #@saman_htm
 tdcli = dofile('./libs/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
@@ -99,7 +98,7 @@ function create_config( )
 		"muteall"
 	},
     sudo_users = {
-   157059515,
+   185906807,
    sudo_id
 },
     admins = {},
