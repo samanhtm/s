@@ -38,7 +38,7 @@ green "     >>>>                       We Are Not Attacker                      
 green "     >>>>                       We Are Not Alliance                             "
 white "     >>>>                       We Are Family                                   "
 red   "     >>>>                       We Are The Best :-)                             "
-red   "     >>>>                       @BeyondTeam                                     "
+red   "     >>>>                       @saman_htm                                     "
 }
 update() {
   git pull
